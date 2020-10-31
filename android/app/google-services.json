@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534440395956",
+    "firebase_url": "https://doggtime-167b7.firebaseio.com",
+    "project_id": "doggtime-167b7",
+    "storage_bucket": "doggtime-167b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534440395956:android:7dd5d934c6505b4ca703e1",
+        "android_client_info": {
+          "package_name": "com.pamod.doggtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534440395956-jikh77veaddtkhd6jacsakes6o9g2kmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJUnaSCmz01HT9tr-4bWh0-ndEzglrhq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534440395956-jikh77veaddtkhd6jacsakes6o9g2kmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
